@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Background.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="var.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="highscore.txt" />
+    <Text Include="gamedata\gold.txt" />
+    <Text Include="gamedata\highscore.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="sky.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\10.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\9.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\hp\0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\explosion.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\heal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\icon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\meteor0001.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\ship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\ship2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\sky.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\coin1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\enemyship.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\bullet.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\boss2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\boss1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\asteroid.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\background.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_0 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_1 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_2 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_3 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_4 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_5 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_6 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_7 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_8 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_9 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_9.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_10 - Cвpia.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_10.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_HIT.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="textures\levelbar\VIDA_HIT_old.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\ball.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="audio\fire1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="audio\purchase.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="audio\shot.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\sansation.ttf" />
+    <Font Include="fonts\AGENCYB.TTF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="audio\DoubleShot.ogg" />
+    <None Include="audio\shot.ogg" />
+    <None Include="audio\TripleShot.ogg" />
+  </ItemGroup>
+</Project>

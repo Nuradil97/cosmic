@@ -1,0 +1,42 @@
+﻿  Boss.cpp
+  Bullet.cpp
+  Enemy.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(18,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(18,49): warning C4244:         with
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(18,49): warning C4244:         [
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(18,49): warning C4244:             T=unsigned int
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(18,49): warning C4244:         ]
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(22,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(36,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(63,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(63,48): warning C4244:         with
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(63,48): warning C4244:         [
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(63,48): warning C4244:             T=unsigned int
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(63,48): warning C4244:         ]
+  Entity.cpp
+  Player.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Enemy.cpp(73,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Player.cpp(34,11): warning C4552: '+': result of expression not used
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Player.cpp(64,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  functions.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Player.cpp(65,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\functions.cpp(160,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\functions.cpp(166,22): warning C4018: '<=': signed/unsigned mismatch
+  main.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\functions.cpp(173,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,88): warning C4244:         with
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,88): warning C4244:         [
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,88): warning C4244:             T=unsigned int
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,88): warning C4244:         ]
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,63): warning C4244:         with
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,63): warning C4244:         [
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,63): warning C4244:             T=unsigned int
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(32,63): warning C4244:         ]
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(163,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(188,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\main.cpp(189,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  cosmic.vcxproj -> C:\Users\Nuradil\Desktop\cosmic_final\Debug\cosmic.exe

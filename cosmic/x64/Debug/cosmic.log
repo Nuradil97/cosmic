@@ -1,0 +1,25 @@
+﻿  Background.cpp
+  Boss.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Background.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Bullet.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Entity.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  button.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Entity.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Coin.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\button.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Enemy.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Coin.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Entity.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Entity.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Explosion.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Entity.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  functions.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Explosion.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\functions.h(3,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\functions.h(3,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  text.cpp
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\Entity.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Generating Code...
+C:\Users\Nuradil\Desktop\cosmic_final\cosmic\text.h(2,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
